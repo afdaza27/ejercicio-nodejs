@@ -1,0 +1,24 @@
+{
+  "name": "ejercicio-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afdaza27/ejercicio-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afdaza27/ejercicio-nodejs/issues"
+  },
+  "homepage": "https://github.com/afdaza27/ejercicio-nodejs#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
